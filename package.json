@@ -1,0 +1,26 @@
+{
+  "name": "soma_classifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightsoo/soma_classifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightsoo/soma_classifier/issues"
+  },
+  "homepage": "https://github.com/lightsoo/soma_classifier#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "ip": "^1.1.3",
+    "multer": "^0.1.8",
+    "async": "^2.0.1"
+  }
+}
